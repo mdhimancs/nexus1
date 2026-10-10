@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Search Intelligence",
+  "description": "AI-powered search engine featuring real-time indexing, advanced OSINT filtering, and machine learning to deliver highly relevant search results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
